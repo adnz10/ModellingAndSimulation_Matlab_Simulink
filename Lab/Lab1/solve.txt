@@ -1,0 +1,14 @@
+roots
+poly
+
+polynomial value
+
+polyval([a,b,c],at2)
+
+multiplication of two polynomials
+
+a(s) ==s^2 =+3s-1
+b(s)
+
+
+conv([1 3 -1],[1 -2 6 -7])
